@@ -1,0 +1,10 @@
+		******SCHOOL RECORD OF STUDENTS******
+__________________________________________________________________
+NAME		FATHER'S NAME		MOTHER'S NAME	STANDARD
+__________________________________________________________________
+Ritvik		YOGESH GUPTA		NIRMALA DEVI	12
+SAIYAM		GULSHAN			PRABHATI	12
+HARSHIT		YOGESH			NIRMALA		12
+PRACHI		RAVI			SHARDA		12
+SOURABH		KAPIL			MAMTA		10
+SHARDA		SURESH			MANTA		12
